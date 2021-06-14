@@ -26,5 +26,6 @@ This undertaking predicts whether the youngsters are wearing school uniform or n
 * Libraries used: - NumPy, Keras, Matplotlib, Pandas, Sklearn, gunicorn, Werkzeug, Jinja2, itsdangerous, MarkupSafe.
 * Framework: - TensorFlow, Keras is a deep learning framework, Flask is a python web framework.
 * Operating System: - Windows 10/Linux/macOS
+
 **CONTRIBUTORS**
 *Sanju Kumar Giri 
