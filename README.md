@@ -29,4 +29,4 @@ This undertaking predicts whether the youngsters are wearing school uniform or n
 
 **CONTRIBUTORS**
 
-*Sanju Kumar Giri 
+* Sanju Kumar Giri 
