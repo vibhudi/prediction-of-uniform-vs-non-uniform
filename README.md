@@ -5,14 +5,16 @@ This undertaking predicts whether the youngsters are wearing school uniform or n
 ![School Dress Predict](https://user-images.githubusercontent.com/77716229/121889553-ffe41d80-cd36-11eb-8a4f-b5a8b090a5a3.png)
 *The above repository showcases a model which classifies between "Uniform vs. Non-uniform datasets"
 
-**DISCRIPTION:**
+# DISCRIPTION:
+
 * We have build this project on the foundations of Convolutional Neural Networking
 *Used HTML to create a website and CSS to style the website and Flask to deploy and predict whether the given image is uniform or non-uniform
 
-**DATASET**
+# DATASET:
+
 *https://drive.google.com/drive/folders/1y80ceYx_HTbUmCc1aeszC275qZMd4LD3?usp=sharing
 
-**REQUIREMENTS**
+# REQUIREMENTS:
 
 *Hardware: 
 * Minimum RAM: -4GB
@@ -27,6 +29,6 @@ This undertaking predicts whether the youngsters are wearing school uniform or n
 * Framework: - TensorFlow, Keras is a deep learning framework, Flask is a python web framework.
 * Operating System: - Windows 10/Linux/macOS
 
-**CONTRIBUTORS**
+# CONTRIBUTORS:
 
 * Sanju Kumar Giri 
